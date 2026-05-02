@@ -1,0 +1,84 @@
+⨯ ./components/hero.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\asint\Documents\Codex\2026-05-02\where-am-i-currently-which-folder\web-projects\active\portfolio-site\components\hero.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./components/hero.tsx
+⨯ ./components/hero.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\asint\Documents\Codex\2026-05-02\where-am-i-currently-which-folder\web-projects\active\portfolio-site\components\hero.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./components/hero.tsx
+./app/page.tsx
+⨯ ./components/hero.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\asint\Documents\Codex\2026-05-02\where-am-i-currently-which-folder\web-projects\active\portfolio-site\components\hero.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./components/hero.tsx
+./app/page.tsx
+⨯ ./components/hero.tsx
+Error: 
+
+Caused by:
+    0: Failed to read source code from C:\Users\asint\Documents\Codex\2026-05-02\where-am-i-currently-which-folder\web-projects\active\portfolio-site\components\hero.tsx
+    1: The system cannot find the file specified. (os error 2)
+
+Import trace for requested module:
+./components/hero.tsx
+./app/page.tsx
+⨯ ./app/globals.css
+Module not found: Can't resolve 'C:\Users\asint\Documents\Codex\2026-05-02\where-am-i-currently-which-folder\web-projects\active\portfolio-site\app\globals.css'
+
+https://nextjs.org/docs/messages/module-not-found
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[browser] You are trying to animate backgroundColor from "rgba(0, 0, 0, 0)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] Please ensure that the container has a non-static position, like 'relative', 'fixed', or 'absolute' to ensure scroll offset is calculated correctly.
+[browser] You are trying to animate backgroundColor from "rgba(0, 0, 0, 0)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "rgba(255, 255, 255, 0.1)" to "transparent". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[browser] You are trying to animate backgroundColor from "transparent" to "rgba(255, 255, 255, 0.1)". "transparent" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
